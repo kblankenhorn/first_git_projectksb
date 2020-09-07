@@ -1,8 +1,5 @@
 Testing 1
 Testing line 2
-<<<<<<< HEAD
-Challenge 1
-=======
 Change 1
->>>>>>> 356143bfed05c3e328433b5a04a3a18a4b299ef3
+
 
